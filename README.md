@@ -4,7 +4,7 @@ Steins;Gate (PSP) || v1.0 ||
 
   Proyecto realizado principalmente por: 
         
-  - Traducción, adaptación, inserción y port:Darklink09
+  - Traducción, adaptación, inserción y port: Darklink09
   - Testeo y apoyo adicional: Vampiro49
 
 - Este parche fue hecho con fines de preservación y accesibilidad para la comunidad.
