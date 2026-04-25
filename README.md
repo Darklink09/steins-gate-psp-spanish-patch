@@ -19,6 +19,13 @@ Créditos adicionales:
     https://tradusquare.es/proyectos/steinsgate/
 
 
+Versión 1.0.1
+
+Se realizaron pequeñas correcciones en signos de puntuación.
+Se corrigió un crasheo que ocurría en el capítulo 4, durante la escena en la casa de Faris.
+Se arregló un bug de sonido en la introducción del juego, donde el audio se escuchaba demasiado bajo.
+
+
 Esta es la elección de Steins;Gate.
 
 
