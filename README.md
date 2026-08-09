@@ -29,7 +29,7 @@ Corrección menor del parche.
 
 Cambios:
 
--Se corrigieron bugs en capítulos 6 y 8 donde provocaban que el texto se bugeara o directamente no apareciera
+- Se corrigieron bugs en capítulos 6 y 8 donde provocaban que el texto se bugeara o directamente no apareciera
 
 
 ### v1.0.1
