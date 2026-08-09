@@ -23,6 +23,14 @@ Este parche fue hecho con fines de preservación y accesibilidad para la comunid
 
 ## Versiones
 
+### v1.0.2
+
+Corrección menor del parche.
+
+Cambios:
+
+-Se corrigieron bugs en capítulos 6 y 8 donde provocaban que el texto se bugeara o directamente no apareciera, 
+
 ### v1.0.1
 
 Corrección menor del parche.
